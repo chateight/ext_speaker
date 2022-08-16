@@ -1,3 +1,5 @@
+micro:bit external speaker drive using P0, internal speaker is disabled
+
 
 > このページを開く [https://chateight.github.io/ext_speaker/](https://chateight.github.io/ext_speaker/)
 
